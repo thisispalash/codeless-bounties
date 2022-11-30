@@ -1,2 +1,2 @@
 # Game Design
-
+> [pdf]() | [video]()

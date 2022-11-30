@@ -1,1 +1,2 @@
 # Monetization Model
+> [pdf]() | [video]()

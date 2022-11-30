@@ -1,9 +1,9 @@
 # DeAuto I, Game and Robot
 > [Hackathon](https://gitcoin.co/hackathon/game-robot/onboard)
 
-- Game (Story) Design :: [bounty](https://gitcoin.co/issue/29356) | [github]() | [files](./game-design)
-- Game Feature Design :: [bounty](https://gitcoin.co/issue/29359) | [github]() | [files](./game-feature)
-- Monetization Model Design :: [bounty](https://gitcoin.co/issue/29360) | [github]() | [files](./monetization)
+- Game (Story) Design :: [bounty](https://gitcoin.co/issue/29356) | [files](./game-design) | [explainer]()
+- Game Feature Design :: [bounty](https://gitcoin.co/issue/29359) | [files](./game-feature) | [explainer]()
+- Monetization Model Design :: [bounty](https://gitcoin.co/issue/29360) | [github]() | [files](./monetization) | [explainer]()
 
 ## The Story
 
@@ -14,3 +14,9 @@ Within the first decade humanity learned to live in the dark. It leveraged its a
 Over time, these monsters evolved into three distinct categories - the zombies, the powerful, and the intelligent. The _zombies_ are the least dangerous. Lacking cognitive functionality, _the zombies_ can be easily manipulated and overcome. Be careful not to get in contact with them however, since they can just as easily cause a mutation in you, turning you into a monster. The next in line of danger are _the powerful_. They have some cognitive ability, but that is to control the power they weild. There are many classes of the powerful; some can distort electrical signals, some can generate extreme levels of strength, while some others can infect a wider area. The most dangerous, and the rarest of the three are _the intelligent_. These monsters have the highest cognitive ability and can strategize and organise the other monsters.
 
 Finally, about seven years ago, a massive solar flare knocked out most of humanity's technologies. The only surviving tech were those that were autonomous and isolated - ie, the Starlink communication network and the dozen NEV fabrication facilities. 
+
+## Characters
+
+## Gameplay
+
+## Economy
